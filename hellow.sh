@@ -1,1 +1,1 @@
-echo devops week1 lab
+echo hello DEVOPS week1 lab
